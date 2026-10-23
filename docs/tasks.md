@@ -5,7 +5,7 @@
 ## Phase 1: Foundation & Setup
 - [x] **Task 1.1:** Initialize a Next.js (App Router) project with Tailwind CSS and TypeScript.
 - [x] **Task 1.2:** Install and configure Shadcn UI; set up the base theme and global CSS.
-- [ ] **Task 1.3:** Integrate Clerk for authentication and wrap the app in the Clerk Provider.
+- [x] **Task 1.3:** Integrate Clerk for authentication and wrap the app in the Clerk Provider.
 - [ ] **Task 1.4:** Create a protected route wrapper or middleware to secure the `/dashboard` routes.
 - [ ] **Task 1.5:** Set up the Supabase project connection and environment variables.
 - [ ] **Task 1.6:** Define the database schema (SQL or via ORM) for `Users`, `Clients`, and `Projects`.
